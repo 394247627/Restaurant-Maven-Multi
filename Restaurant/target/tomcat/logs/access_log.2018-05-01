@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [01/May/2018:22:14:52 +0800] "GET / HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [01/May/2018:22:14:56 +0800] "GET /Restaurant/noodles?vegetable=shit HTTP/1.1" 200 57 http-bio-8080-exec-2 19

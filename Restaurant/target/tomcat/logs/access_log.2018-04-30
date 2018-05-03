@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [30/Apr/2018:18:58:02 +0800] "GET / HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [30/Apr/2018:18:58:08 +0800] "GET /Restaurant/ HTTP/1.1" 404 973 http-bio-8080-exec-2 24
+0:0:0:0:0:0:0:1 - - [30/Apr/2018:18:58:15 +0800] "GET /Restaurant/noodles HTTP/1.1" 200 59 http-bio-8080-exec-3 8
+0:0:0:0:0:0:0:1 - - [30/Apr/2018:18:58:39 +0800] "GET /Restaurant/noodles?vegetable=shit HTTP/1.1" 200 57 http-bio-8080-exec-4 1
+0:0:0:0:0:0:0:1 - - [30/Apr/2018:18:58:48 +0800] "GET /Restaurant/noodles?vegetable=jiangyifei HTTP/1.1" 200 63 http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [30/Apr/2018:18:59:01 +0800] "GET /Restaurant/noodles?vegetable=pipi HTTP/1.1" 200 57 http-bio-8080-exec-6 2
